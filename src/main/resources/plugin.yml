@@ -1,0 +1,6 @@
+name: PhantomNoDamage
+version: '1.0'
+main: com.coderxi.plugin.phantomNoDamage.PhantomNoDamage
+api-version: '1.21'
+author: coderxi
+website: https://modrinth.com/plugin/phantomnodamage
